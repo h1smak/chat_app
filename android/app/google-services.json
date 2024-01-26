@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409962444628",
+    "project_id": "heyflutterchat",
+    "storage_bucket": "heyflutterchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409962444628:android:41f6f05a1a5b5b5b25bac1",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWYm6bUbBVdI6ztxFf7NZ-I-JORphIC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
